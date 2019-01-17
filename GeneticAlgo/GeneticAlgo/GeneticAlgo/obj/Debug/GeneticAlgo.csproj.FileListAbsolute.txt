@@ -1,0 +1,36 @@
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe.config
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csprojResolveAssemblyReference.cache
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.exe
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.pdb
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe.config
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csprojResolveAssemblyReference.cache
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.exe
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.pdb
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.Properties.Resources.resources
+C:\Users\anton\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.GenerateResource.Cache
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.Properties.Resources.resources
+C:\Users\asdf\source\repos\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.GenerateResource.Cache
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csprojAssemblyReference.cache
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.Properties.Resources.resources
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.GenerateResource.cache
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.exe
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.pdb
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe.config
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+C:\Users\dmitr\Downloads\Telegram Desktop\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe.config
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csprojAssemblyReference.cache
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.Properties.Resources.resources
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.GenerateResource.cache
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.CoreCompileInputs.cache
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.exe
+E:\4course\Security\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.pdb
